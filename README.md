@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajmal
-- 👀 I’m interested in Engineering, Learning new codes, etc
-- 🌱 I’m currently learning Python, Java
+- 👀 I’m interested in Learning new codes like C, python, Java etc
+- 🌱 I’m currently studying Engineering (B.tech)
 - 📫 How to reach me insta: @aju_m.y
 
 <!---
