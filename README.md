@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ajmal
+- 👋 Hi, I’m Ajmal Mohamed Yaseen
 - 👀 I’m interested in Learning new codes like C, python, Java etc
 - 🌱 I’m currently studying Engineering (B.tech)
 - 📫 How to reach me insta: @aju_m.y
